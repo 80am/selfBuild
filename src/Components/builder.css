@@ -1,0 +1,16 @@
+input{
+    background-color: cyan;
+    color: black;
+    height: 30px;
+    width: 60px;
+    display: flex;
+    justify-content: center;  
+    font-size: 30px;
+
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+    
+
+}
